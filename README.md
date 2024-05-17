@@ -8,24 +8,24 @@
 ## Tareas
 
 para Obtener tareas
-- localhost:3000/tasks/getTasks
+- localhost:3001/tasks/getTasks
 
 para agregar una tarea
-- localhost:3000/tasks/addTask
+- localhost:3001/tasks/addTask
 
 para eliminar una tarea
-- localhost:3000/tasks/removeTask/id
+- localhost:3001/tasks/removeTask/id
 
 ## Metas
 
 para Obtener las Metas
-- localhost:3000/goals/getGoals
+- localhost:3001/goals/getGoals
 
 para agregar una Meta
-- localhost:3000/goals/addGoal
+- localhost:3001/goals/addGoal
 
 para eliminar una Meta
-- localhost:3000/goals/removeGoal/id
+- localhost:3001/goals/removeGoal/id
 
 ## API KEY
 
